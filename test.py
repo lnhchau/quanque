@@ -75,3 +75,7 @@ def main():
 	height_feet = cal_to_feet(height_m)
 	print_person_info(firstname, lastname, age, THIS_YEAR, height_feet, is_vietnamese, is_male)
 main()
+
+def ted():
+	print("hdhdh")
+
