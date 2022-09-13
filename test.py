@@ -78,4 +78,5 @@ main()
 
 def ted():
 	print("hdhdh")
-
+def abc():
+	print("abc")
