@@ -78,6 +78,11 @@ main()
 
 def ted():
 	print("hdhdh")
+<<<<<<< HEAD
 
 def lungtung(a,b):
 	return a*b
+=======
+def abc():
+	print("abc")
+>>>>>>> 7b6e3bbde68d92d77d09f4c75ffdb2efd9d15c89
