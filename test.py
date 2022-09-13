@@ -79,3 +79,5 @@ main()
 def ted():
 	print("hdhdh")
 
+def lungtung(a,b):
+	return a*b
